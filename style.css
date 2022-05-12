@@ -149,7 +149,8 @@ button {
 }
 
 button:active {
-    background: beige;
+    background: rgb(229, 229, 151);
+    border: none;
 }
 
 .title {
